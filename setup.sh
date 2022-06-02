@@ -18,6 +18,6 @@ systemctl restart sshd;
 
 #apt install nftaples -y;
 
-#sudo nft add rule filter input dport 22 ip saddr 45.77.103.243 accept;
+#sudo nft add rule filter input dport 22 ip saddr xxx.xxx.xxx.xxx accept;
 
 #sudo nft add chain family filter input '{ policy drop; }'
