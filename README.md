@@ -8,4 +8,5 @@ This script will:
 -Harden the ssh configuration and restart sshd
 
 To be added:
+
 -Firewall configurations
