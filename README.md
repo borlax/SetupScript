@@ -1,6 +1,6 @@
 # SetupScript
 
-Used for initial setup of a new VM or BM on Vultr. Using cloud-init their deployment system will automatically add my ssh key to the Root user.
+Used for initial setup of a new Debian VM or BM on Vultr. Using cloud-init their deployment system will automatically add my ssh key to the Root user.
 
 This script will:
 
